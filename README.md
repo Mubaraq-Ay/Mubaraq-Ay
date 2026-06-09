@@ -16,4 +16,4 @@ Software Developer building web applications and exploring the worlds of DevOps,
 * Collaboration projects
 
 ---
-*Check out my [Python Repository](LINK_TO_YOUR_REPO) where I track my automation and learning journey.*
+*Check out my [Python Repository](https://github.com/Mubaraq-Ay/_python.git) where I track my automation and learning journey.*
