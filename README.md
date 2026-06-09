@@ -12,7 +12,7 @@ Software Developer building web applications and exploring the worlds of DevOps,
 
 ### Open To
 * Freelance Gigs & Contract Work (Web Dev / APIs)
-* Internship / SIWES opportunities 🇳🇬
+* Internship / SIWES opportunities
 * Collaboration projects
 
 ---
