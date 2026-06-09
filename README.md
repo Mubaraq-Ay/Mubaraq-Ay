@@ -1,4 +1,4 @@
- # Hi, I'm Mubaraq Ayanleke! ⚡
+ # Hi, I'm Mubaraq Ayanleke!
 
 Software Developer building web applications and exploring the worlds of DevOps, Cloud infrastructure, and Python scripting.
 
